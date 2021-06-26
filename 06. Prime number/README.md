@@ -1,2 +1,2 @@
-## Проверка за просто число
-Създайте програма, в която въвежда се цяло положително число и се извежда съобщение дали то е просто или не.
+### Checking for prime number
+This console program checks if the inserted number is prime or not.

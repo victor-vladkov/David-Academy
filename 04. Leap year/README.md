@@ -1,2 +1,2 @@
-## Проверка за високосна година
-Създайте програма, в която се въвежда година (цяло положително число) и се извежда съобщение дали тя е високосна или не.
+### Leap year
+This console program checks if the inserted year is a leap one or not.

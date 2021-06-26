@@ -1,2 +1,2 @@
-## Дискриминанта на квадратно уравнение
-Създайте програма, в която променливите a, b и c се инициализират с десетични числа – коефициенти в квадратно уравнение. Нека програмата изчисли дискриминантата, запише резултата в променлива discriminant и го покаже на екрана.
+### Discriminant of a quadratic equation
+This console program finds the discriminant of a quadratic equation with its coefficients inserted by the user.

@@ -1,2 +1,2 @@
-## Поздрав
-Създайте програма, която инициализира променливата studentName с имената на ученик и променливата courseName – с наименованието на курс. Нека програмата запише в променлива message текста „Здравейте [име на ученик] и добре дошли в [наименование на курс]!” и покаже съобщението на екрана.
+## Greating
+This console program greats the user by displaying their name and the course they are taking.

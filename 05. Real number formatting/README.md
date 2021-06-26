@@ -1,2 +1,2 @@
-## Форматиране на дробно число
-Създайте програма, в която се въвежда дробно число и след това то се извежда с избран от потребителя брой знаци след десетичната запетая.
+### Formatting real numbers
+This console program rounds up a real number to as many numbers after the decimal point as inserted by the user.
