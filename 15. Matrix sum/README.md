@@ -1,0 +1,2 @@
+### Quadratic matrix elements sum
+This console program requires the user to insert numbers for a quadratic matrix and then finds the sum of the numbers in the main diagonal, the sum of the elements above it and this of the numbers below it.
