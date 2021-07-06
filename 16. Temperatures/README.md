@@ -1,0 +1,2 @@
+### Temperatures average
+This console program requires the user to insert the values or a rectangular matrix which displays the temperatures during 6 hours of every day of the week. Then it finds the average temperature for every day of the week and that for every hour, analyzing the data for all week days. 
