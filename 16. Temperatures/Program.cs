@@ -20,24 +20,6 @@ namespace _17._Temperatures {
 				for (int j = 0; j < n; j++)
 					tempSums[k] += matrix[j, i];
 			Console.WriteLine(string.Join("; ", tempSums.Select(sum => sum / n)));
-			// Console.WriteLine(string.Join("; ", tempSums.Select(AverageOfSix)));
 		}
-
-		// static int AverageOfSix(int n) {
-		// 	return n / 6;
-		// }
 	}
 }
-
-/*
-
-x => x * x;
-
-(a, b, c) => a + b + c;
-
-(a, b) => {
-	double s = a * b;
-	return s;
-}
-
-*/
