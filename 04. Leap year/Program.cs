@@ -11,7 +11,6 @@ namespace _04._Leap_year
                 Console.WriteLine("Годината е високосна.");
             else 
                 Console.WriteLine("Годината не е високосна.");
-            //Console.WriteLine($"Годината {(int.Parse(Console.ReadLine()) % 4 == 0 ? "" : "не ")}e високосна.");
         }
     }
 }
